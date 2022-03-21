@@ -1,7 +1,7 @@
 ### Welcome
-I’m currently learning website development. 
+I’m currently learning back-nd development. 
 
-สวัสดีค่ะ อาทิตยานะคะ กำลังศึกษา back-end ค่ะ หวังว่าจะได้สร้างผลงานที่หลากหลายในอนาคตค่ะ ✨
+สวัสดีค่ะ อาทิตยานะคะ กำลังศึกษา backend ค่ะ หวังว่าจะได้สร้างผลงานที่หลากหลายในอนาคตค่ะ ✨
 
 
 <!--
