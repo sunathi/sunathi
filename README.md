@@ -1,5 +1,5 @@
 ### Welcome
-I’m currently learning back-nd development. 
+I’m currently learning back-end development. 
 
 สวัสดีค่ะ อาทิตยานะคะ กำลังศึกษา backend ค่ะ หวังว่าจะได้สร้างผลงานที่หลากหลายในอนาคตค่ะ ✨
 
