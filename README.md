@@ -1,8 +1,5 @@
 ### Welcome
-I’m currently learning coding. 
-
-สวัสดีค่ะ อาทิตยานะคะ กำลังศึกษา coding ค่ะ หวังว่าจะได้สร้างผลงานที่หลากหลายในอนาคตค่ะ ✨
-
+I’m Athitaya, a web developer. 😊
 
 <!--
 **sunathi/sunathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
